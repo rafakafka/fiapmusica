@@ -1,4 +1,4 @@
-package dto;
+package br.com.fiap.fiapmusica.dto;
 
 public class MusicaDTO {
 	
